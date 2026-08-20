@@ -120,19 +120,29 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
+<h2>🏆 GitHub Profile Trophy</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishnarajsinh0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Profile Trophy"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=krishnarajsinh0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Profile Trophy"
+  />
 </p>
 
----
-
-## 📊 GitHub Analytics
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnarajsinh0&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnarajsinh0&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=krishnarajsinh0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnarajsinh0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
