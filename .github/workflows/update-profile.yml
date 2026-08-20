@@ -12,7 +12,6 @@ jobs:
 update-profile:
 runs-on: ubuntu-latest
 
-```
 steps:
 
   - name: Checkout repository
@@ -54,4 +53,3 @@ steps:
       git add profile/*.svg
       git diff --cached --quiet || git commit -m "Update GitHub profile stats"
       git push
-```
