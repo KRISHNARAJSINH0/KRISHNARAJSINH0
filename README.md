@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm KRISHNARAJSINH SOLANKI</h1>
 
-<h3 align="center">
-  🤖 AI & Data Science Student | 🐍 Python Developer | 📊 Machine Learning & Data Science | 🌐 Full-Stack Development | 🎨 3D Web Experiences
-</h3>
+<p align="center">
+  <strong>AI & Data Science Student • Python Developer • Machine Learning • Full-Stack Development • 3D Web Experiences</strong>
+</p>
 
 <p align="center">
-  <a href="https://github.com/krishnarajsinh0">
-    <img src="https://komarev.com/ghpvc/?username=krishnarajsinh0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://github.com/KRISHNARAJSINH0">
+    <img src="https://komarev.com/ghpvc/?username=KRISHNARAJSINH0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/krishnarajsinh0?tab=followers">
-    <img src="https://img.shields.io/github/followers/krishnarajsinh0?label=Followers&style=flat" alt="GitHub Followers"/>
+  <a href="https://github.com/KRISHNARAJSINH0?tab=followers">
+    <img src="https://img.shields.io/github/followers/KRISHNARAJSINH0?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/krishnarajsinh0?tab=repositories">
-    <img src="https://img.shields.io/github/stars/krishnarajsinh0?label=Stars&style=flat" alt="GitHub Stars"/>
+  <a href="https://github.com/KRISHNARAJSINH0?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-View-blue?style=flat" alt="Repositories"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://krishnarajsinhportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krishnarajsinh-solanki/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:krishnarajsinhsolanki03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -20,15 +32,19 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**
+I'm a B.Tech student specializing in **Artificial Intelligence & Data Science**, passionate about building practical applications that combine **AI, data, software development, and interactive web experiences**.
+
+* 🎓 B.Tech in **Artificial Intelligence & Data Science**
 * 🔭 Currently working on **[TalentIQ](https://talent-iq-snowy.vercel.app/)**
 * 🌱 Currently learning **3D Modeling & Interactive 3D Web Development**
-* 🤖 Interested in **AI, Machine Learning, Data Science & Automation**
-* 🌐 Passionate about **Full-Stack Development and Interactive Web Experiences**
-* 🎨 Exploring **3D Models, Blender, Three.js & Web-based 3D Applications**
-* 💬 Ask me about **Python, AI/ML, Full-Stack Development, 3D Model Integration & Interactive Websites**
-* 📫 Reach me at **[krishnarajsinhsolanki03@gmail.com](mailto:krishnarajsinhsolanki03@gmail.com)**
-* 🌐 Portfolio: **[krishnarajsinhportfolio.vercel.app](https://krishnarajsinhportfolio.vercel.app/)**
+* 🤖 Interested in **Artificial Intelligence, Machine Learning & Data Science**
+* 🐍 Building projects with **Python**
+* 🌐 Developing applications with **React, Next.js, Flask & Django**
+* 🎨 Exploring **Blender, Three.js & 3D Web Development**
+* 🗄️ Working with **SQL, PostgreSQL, MongoDB & SQLite**
+* 💬 Ask me about **AI/ML, Python, Full-Stack Development & Interactive 3D Websites**
+* 📫 **[krishnarajsinhsolanki03@gmail.com](mailto:krishnarajsinhsolanki03@gmail.com)**
+* 🌐 **[Portfolio](https://krishnarajsinhportfolio.vercel.app/)**
 
 ### ⚡ Fun Fact
 
@@ -36,141 +52,60 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Languages
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-</a>
+### 🌐 Web Development
 
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django,tailwind,bootstrap" />
+</p>
 
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-</a>
+### 🤖 AI / Data Science
 
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="48" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-Learn"/>
+</p>
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" alt="Flask"/>
-</a>
+### 🗄️ Databases & Tools
 
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-</a>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,git,github,vscode" />
+</p>
 
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45" height="45" alt="Express"/>
-</a>
+### 🎨 3D & Interactive Web
 
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
-</a>
-
-<a href="https://www.sqlite.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-Learn"/>
-</a>
-
-<a href="https://www.blender.org/" target="_blank">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="45" height="45" alt="Blender"/>
-</a>
-
-<a href="https://threejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="45" height="45" alt="Three.js"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="Tailwind CSS"/>
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,threejs" />
 </p>
 
 ---
 
-<h2>🏆 GitHub Profile Trophy</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=krishnarajsinh0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Profile Trophy"
-  />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" width="49%" alt="Top Languages"/>
 </p>
 
-<h2>📊 GitHub Analytics</h2>
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=krishnarajsinh0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnarajsinh0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="./profile/metrics.svg" width="100%" alt="GitHub Contribution Metrics"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=krishnarajsinh0&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnarajsinh0&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-## 📌 GitHub Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishnarajsinh0&theme=tokyonight" alt="GitHub Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishnarajsinh0&theme=tokyonight" alt="GitHub Statistics"/>
+  <img src="./profile/contributions.svg" width="100%" alt="GitHub Contribution Activity"/>
 </p>
 
 ---
@@ -179,21 +114,25 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 TalentIQ
 
-AI-powered recruitment and resume platform designed to analyze resumes, improve candidate profiles, and provide intelligent career insights.
+AI-powered recruitment and resume platform designed to help analyze resumes, improve candidate profiles, and deliver intelligent career insights.
+
+**Tech:** React • Next.js • AI • Data Processing • Web Development
 
 🔗 **[Live Demo](https://talent-iq-snowy.vercel.app/)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 Virtual Interactive Museum
+### 🏛️ Virtual Interactive Museum
 
-An interactive web-based museum experience featuring **3D artifacts, immersive navigation, audio guides and interactive models**.
+Interactive museum experience featuring **3D artifacts, immersive navigation, audio guides and interactive 3D models**.
+
+**Tech:** HTML • CSS • JavaScript • Bootstrap • Flask • Three.js • Blender
 
 🔗 **[Portfolio](https://krishnarajsinhportfolio.vercel.app/)**
 
@@ -201,23 +140,23 @@ An interactive web-based museum experience featuring **3D artifacts, immersive n
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📊 Data Science Projects
 
 Projects focused on **Python, Pandas, NumPy, Machine Learning, Data Analysis and Visualization**.
 
-🔗 **[View Repositories](https://github.com/krishnarajsinh0?tab=repositories)**
+🔗 **[View Repositories](https://github.com/KRISHNARAJSINH0?tab=repositories)**
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Full-Stack Projects
+### 🌐 Full-Stack Applications
 
-Web applications built using **React, Next.js, Flask, Django, Node.js, databases and modern UI technologies**.
+Web applications developed using **React, Next.js, Flask, Django, Node.js and modern databases**.
 
-🔗 **[Explore My GitHub](https://github.com/krishnarajsinh0?tab=repositories)**
+🔗 **[Explore Projects](https://github.com/KRISHNARAJSINH0?tab=repositories)**
 
 </td>
 </tr>
@@ -225,51 +164,69 @@ Web applications built using **React, Next.js, Flask, Django, Node.js, databases
 
 ---
 
-## 🧩 Areas I Work In
+## 🎯 What I'm Currently Exploring
+
+```text
+Artificial Intelligence     ███████████████████░   Learning
+Machine Learning            █████████████████░░░   Building
+Data Science                █████████████████░░░   Exploring
+Full-Stack Development      ██████████████████░░   Building
+3D Web Development          ██████████████░░░░░░   Learning
+Interactive Experiences     ███████████████░░░░░   Exploring
+```
+
+---
+
+## 🌟 Current Focus
 
 <p align="center">
 
-`Artificial Intelligence` •
-`Machine Learning` •
-`Data Science` •
-`Python` •
-`Full-Stack Development` •
-`React` •
-`Next.js` •
-`Flask` •
-`Django` •
-`3D Web Development` •
-`Blender` •
-`Three.js` •
-`SQL` •
-`Data Analytics`
+`AI` • `Machine Learning` • `Data Science` • `Python` • `React`
+• `Next.js` • `Flask` • `Django` • `3D Web`
+• `Blender` • `Three.js` • `SQL` • `Data Analytics`
 
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 GitHub Journey
+
+<p align="center">
+
+<img src="https://img.shields.io/github/commit-activity/y/KRISHNARAJSINH0/KRISHNARAJSINH0?style=flat-square&label=Commit%20Activity" alt="Commit Activity"/>
+<img src="https://img.shields.io/github/last-commit/KRISHNARAJSINH0/KRISHNARAJSINH0?style=flat-square&label=Last%20Commit" alt="Last Commit"/>
+<img src="https://img.shields.io/github/repo-size/KRISHNARAJSINH0/KRISHNARAJSINH0?style=flat-square&label=Profile%20Repo%20Size" alt="Repository Size"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/krishnarajsinh-solanki/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="45" height="45" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/KRISHNARAJSINH0" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>
 </a>
 
 <a href="mailto:krishnarajsinhsolanki03@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" height="45" alt="Email"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email"/>
 </a>
 
-<a href="https://github.com/krishnarajsinh0" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-</a>
+</p>
 
+<p align="center">
+  <a href="https://krishnarajsinhportfolio.vercel.app/">🌐 Visit My Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
+  <strong>⭐ Thanks for visiting my profile!</strong>
 </p>
 
 <p align="center">
