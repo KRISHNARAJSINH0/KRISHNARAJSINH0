@@ -7,7 +7,6 @@ jobs:
 update-profile:
 runs-on: ubuntu-latest
 
-```
 permissions:
   contents: write
 
@@ -41,4 +40,3 @@ steps:
       git add profile/*.svg
       git commit -m "Update GitHub profile stats" || exit 0
       git push
-```
